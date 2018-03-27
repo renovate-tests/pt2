@@ -1,0 +1,11 @@
+
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@rarkins2/private-module-test": "^1.0.0",
+    "left-pad": "1.1.0"
+  }
+}
